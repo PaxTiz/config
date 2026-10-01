@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Golden Gate Light",
+  "version": "1.0",
+  "description": "Thème clair chaud (palette Golden Gate) pour Brave",
+  "theme": {
+    "colors": {
+      "frame": [236, 228, 210],
+      "frame_inactive": [230, 220, 197],
+      "frame_incognito": [43, 38, 32],
+      "frame_incognito_inactive": [33, 29, 25],
+      "toolbar": [252, 250, 245],
+      "tab_text": [43, 38, 32],
+      "tab_background_text": [110, 101, 85],
+      "bookmark_text": [43, 38, 32],
+      "toolbar_button_icon": [110, 101, 85],
+      "omnibox_background": [240, 233, 218],
+      "omnibox_text": [43, 38, 32],
+      "button_background": [168, 113, 46],
+      "ntp_background": [252, 250, 245],
+      "ntp_text": [43, 38, 32],
+      "ntp_link": [168, 113, 46]
+    }
+  }
+}
