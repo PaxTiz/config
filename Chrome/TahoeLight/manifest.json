@@ -5,111 +5,27 @@
   "description": "Tahoe Light — thème Chrome converti depuis le thème Zed Tahoe",
   "theme": {
     "colors": {
-      "frame": [
-        230,
-        236,
-        238
-      ],
-      "frame_inactive": [
-        220,
-        230,
-        233
-      ],
-      "frame_incognito": [
-        20,
-        27,
-        31
-      ],
-      "frame_incognito_inactive": [
-        16,
-        21,
-        26
-      ],
-      "toolbar": [
-        255,
-        255,
-        255
-      ],
-      "tab_text": [
-        36,
-        46,
-        51
-      ],
-      "tab_background_text": [
-        74,
-        96,
-        105
-      ],
-      "tab_background_text_inactive": [
-        107,
-        128,
-        135
-      ],
-      "tab_background_text_incognito": [
-        155,
-        176,
-        183
-      ],
-      "tab_background_text_incognito_inactive": [
-        116,
-        137,
-        143
-      ],
-      "bookmark_text": [
-        36,
-        46,
-        51
-      ],
-      "toolbar_button_icon": [
-        74,
-        96,
-        105
-      ],
-      "omnibox_background": [
-        233,
-        239,
-        241
-      ],
-      "omnibox_text": [
-        36,
-        46,
-        51
-      ],
-      "ntp_background": [
-        247,
-        250,
-        251
-      ],
-      "ntp_text": [
-        36,
-        46,
-        51
-      ],
-      "ntp_link": [
-        30,
-        125,
-        174
-      ],
-      "ntp_section": [
-        240,
-        244,
-        246
-      ],
-      "ntp_section_text": [
-        36,
-        46,
-        51
-      ],
-      "ntp_section_link": [
-        20,
-        95,
-        130
-      ],
-      "button_background": [
-        210,
-        226,
-        230
-      ]
+      "frame": [230, 236, 238],
+      "frame_inactive": [220, 230, 233],
+      "frame_incognito": [20, 27, 31],
+      "frame_incognito_inactive": [16, 21, 26],
+      "toolbar": [255, 255, 255],
+      "tab_text": [36, 46, 51],
+      "tab_background_text": [74, 96, 105],
+      "tab_background_text_inactive": [107, 128, 135],
+      "tab_background_text_incognito": [155, 176, 183],
+      "tab_background_text_incognito_inactive": [116, 137, 143],
+      "bookmark_text": [36, 46, 51],
+      "toolbar_button_icon": [74, 96, 105],
+      "omnibox_background": [233, 239, 241],
+      "omnibox_text": [36, 46, 51],
+      "ntp_background": [247, 250, 251],
+      "ntp_text": [36, 46, 51],
+      "ntp_link": [30, 125, 174],
+      "ntp_section": [240, 244, 246],
+      "ntp_section_text": [36, 46, 51],
+      "ntp_section_link": [20, 95, 130],
+      "button_background": [210, 226, 230]
     }
   }
 }
