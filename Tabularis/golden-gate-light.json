@@ -1,0 +1,94 @@
+{
+  "colors": {
+    "bg": {
+      "base": "#FCFAF5",
+      "elevated": "#F6F1E7",
+      "overlay": "#F0E9DA",
+      "input": "#FFFFFF",
+      "tooltip": "#F0E9DA"
+    },
+    "surface": {
+      "primary": "#ECE4D2",
+      "secondary": "#E6DCC5",
+      "tertiary": "#DCCFAF",
+      "hover": "#E6DCC5",
+      "active": "#96631F",
+      "disabled": "#F0E9DA"
+    },
+    "text": {
+      "primary": "#2B2620",
+      "secondary": "#5C5344",
+      "muted": "#6E6555",
+      "disabled": "#948A76",
+      "accent": "#8F5E1D",
+      "inverse": "#FFFFFF"
+    },
+    "accent": {
+      "primary": "#96631F",
+      "secondary": "#A8502E",
+      "success": "#4F7038",
+      "warning": "#8A5C24",
+      "error": "#A2432C",
+      "info": "#2E7680"
+    },
+    "border": {
+      "subtle": "#E6DCC5",
+      "default": "#DDD0B0",
+      "strong": "#C2B79E",
+      "focus": "#B8863B"
+    },
+    "semantic": {
+      "string": "#55733F",
+      "number": "#8A5C24",
+      "boolean": "#A8502E",
+      "date": "#2E7680",
+      "null": "#6E6555",
+      "primaryKey": "#9C6B24",
+      "foreignKey": "#3E6E8C",
+      "index": "#8262A0",
+      "connectionActive": "#4F7038",
+      "connectionInactive": "#6E6555",
+      "modified": "#8A5C24",
+      "deleted": "#A2432C",
+      "new": "#4F7038"
+    }
+  },
+  "createdAt": "2026-10-01T15:45:40.556876+00:00",
+  "id": "custom-6715568f-eee6-42ad-950a-a590ecb5fba2",
+  "isPreset": false,
+  "isReadOnly": false,
+  "layout": {
+    "borderRadius": {
+      "sm": "0.25rem",
+      "base": "0.5rem",
+      "lg": "0.75rem",
+      "xl": "1rem"
+    },
+    "spacing": {
+      "xs": "0.25rem",
+      "sm": "0.5rem",
+      "base": "1rem",
+      "lg": "1.5rem",
+      "xl": "2rem"
+    }
+  },
+  "monacoTheme": {
+    "base": "vs",
+    "inherit": true
+  },
+  "name": "Golden Gate Light",
+  "typography": {
+    "fontFamily": {
+      "base": "Inter, system-ui, Avenir, Helvetica, Arial, sans-serif",
+      "mono": "JetBrains Mono, Fira Code, Monaco, Consolas, monospace"
+    },
+    "fontSize": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem"
+    }
+  },
+  "updatedAt": "2026-10-01T15:45:40.556876+00:00"
+}

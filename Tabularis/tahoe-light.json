@@ -1,0 +1,94 @@
+{
+  "colors": {
+    "bg": {
+      "base": "#F7FAFB",
+      "elevated": "#F0F4F6",
+      "overlay": "#E9EFF1",
+      "input": "#FFFFFF",
+      "tooltip": "#E9EFF1"
+    },
+    "surface": {
+      "primary": "#E6ECEE",
+      "secondary": "#DCE6E9",
+      "tertiary": "#D2E2E6",
+      "hover": "#DCE6E9",
+      "active": "#17709C",
+      "disabled": "#E9EFF1"
+    },
+    "text": {
+      "primary": "#242E33",
+      "secondary": "#3B4E56",
+      "muted": "#566B72",
+      "disabled": "#92A4A9",
+      "accent": "#17709C",
+      "inverse": "#FFFFFF"
+    },
+    "accent": {
+      "primary": "#17709C",
+      "secondary": "#9C4A34",
+      "success": "#3F5E33",
+      "warning": "#145F82",
+      "error": "#8F3A28",
+      "info": "#17706E"
+    },
+    "border": {
+      "subtle": "#DCE6E9",
+      "default": "#C7D6DA",
+      "strong": "#AEC5CB",
+      "focus": "#2E7CA8"
+    },
+    "semantic": {
+      "string": "#4A6B3C",
+      "number": "#145F82",
+      "boolean": "#9C4A34",
+      "date": "#17706E",
+      "null": "#566B72",
+      "primaryKey": "#1E7DAE",
+      "foreignKey": "#3A6E96",
+      "index": "#6A4F94",
+      "connectionActive": "#3F5E33",
+      "connectionInactive": "#566B72",
+      "modified": "#145F82",
+      "deleted": "#8F3A28",
+      "new": "#3F5E33"
+    }
+  },
+  "createdAt": "2026-10-01T15:48:12.742494+00:00",
+  "id": "custom-2e37c4e3-0771-4d23-b597-55e4f6e2f5f9",
+  "isPreset": false,
+  "isReadOnly": false,
+  "layout": {
+    "borderRadius": {
+      "sm": "0.25rem",
+      "base": "0.5rem",
+      "lg": "0.75rem",
+      "xl": "1rem"
+    },
+    "spacing": {
+      "xs": "0.25rem",
+      "sm": "0.5rem",
+      "base": "1rem",
+      "lg": "1.5rem",
+      "xl": "2rem"
+    }
+  },
+  "monacoTheme": {
+    "base": "vs",
+    "inherit": true
+  },
+  "name": "Tahoe Light",
+  "typography": {
+    "fontFamily": {
+      "base": "Inter, system-ui, Avenir, Helvetica, Arial, sans-serif",
+      "mono": "JetBrains Mono, Fira Code, Monaco, Consolas, monospace"
+    },
+    "fontSize": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem"
+    }
+  },
+  "updatedAt": "2026-10-01T15:48:12.742494+00:00"
+}

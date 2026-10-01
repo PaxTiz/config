@@ -1,0 +1,12 @@
+{
+  "colors": {"accent":{"error":"#D9705C","info":"#6FB0B5","primary":"#E3B15E","secondary":"#CC6B49","success":"#8FAF7A","warning":"#E3B15E"},"bg":{"base":"#1C1916","elevated":"#211D19","input":"#1C1916","overlay":"#2B2620","tooltip":"#2B2620"},"border":{"default":"#3A3226","focus":"#9C7A45","strong":"#4A3B22","subtle":"#2F2A21"},"semantic":{"boolean":"#CC6B49","connectionActive":"#8FAF7A","connectionInactive":"#9A907D","date":"#6FB0B5","deleted":"#D9705C","foreignKey":"#6FA8C9","index":"#B08FD1","modified":"#E3B15E","new":"#8FAF7A","null":"#9A907D","number":"#E3B15E","primaryKey":"#F0C878","string":"#8FAF7A"},"surface":{"active":"#E3B15E","disabled":"#2A251F","hover":"#332C23","primary":"#2B2620","secondary":"#332C23","tertiary":"#3D3529"},"text":{"accent":"#E3B15E","disabled":"#8C8270","inverse":"#1C1916","muted":"#9A907D","primary":"#EDE3D3","secondary":"#B3A78F"}},
+  "createdAt": "2026-10-01T15:45:20.132124+00:00",
+  "id": "custom-011979ab-35de-45ca-ba82-6611606b9f84",
+  "isPreset": false,
+  "isReadOnly": false,
+  "layout": {"borderRadius":{"base":"0.5rem","lg":"0.75rem","sm":"0.25rem","xl":"1rem"},"spacing":{"base":"1rem","lg":"1.5rem","sm":"0.5rem","xl":"2rem","xs":"0.25rem"}},
+  "monacoTheme": {"base":"vs-dark","inherit":true},
+  "name": "Golden Gate Dark",
+  "typography": {"fontFamily":{"base":"Inter, system-ui, Avenir, Helvetica, Arial, sans-serif","mono":"JetBrains Mono, Fira Code, Monaco, Consolas, monospace"},"fontSize":{"base":"1rem","lg":"1.125rem","sm":"0.875rem","xl":"1.25rem","xs":"0.75rem"}},
+  "updatedAt": "2026-10-01T15:45:20.132124+00:00"
+}

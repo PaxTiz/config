@@ -1,0 +1,94 @@
+{
+  "colors": {
+    "bg": {
+      "base": "#161D21",
+      "elevated": "#1B2328",
+      "overlay": "#242E33",
+      "input": "#161D21",
+      "tooltip": "#242E33"
+    },
+    "surface": {
+      "primary": "#242E33",
+      "secondary": "#2B363C",
+      "tertiary": "#334046",
+      "hover": "#2B363C",
+      "active": "#4FA8D8",
+      "disabled": "#212A2F"
+    },
+    "text": {
+      "primary": "#E9F0F2",
+      "secondary": "#B0C3C9",
+      "muted": "#869BA2",
+      "disabled": "#74898F",
+      "accent": "#4FA8D8",
+      "inverse": "#161D21"
+    },
+    "accent": {
+      "primary": "#4FA8D8",
+      "secondary": "#B25A44",
+      "success": "#6E9A6A",
+      "warning": "#4FA8D8",
+      "error": "#C06B52",
+      "info": "#57B3AE"
+    },
+    "border": {
+      "subtle": "#232D33",
+      "default": "#3A4850",
+      "strong": "#4C6067",
+      "focus": "#3D7FA8"
+    },
+    "semantic": {
+      "string": "#6E9A6A",
+      "number": "#4FA8D8",
+      "boolean": "#BD7A62",
+      "date": "#57B3AE",
+      "null": "#869BA2",
+      "primaryKey": "#74CCEE",
+      "foreignKey": "#5B98C4",
+      "index": "#9E82C9",
+      "connectionActive": "#6E9A6A",
+      "connectionInactive": "#869BA2",
+      "modified": "#4FA8D8",
+      "deleted": "#C06B52",
+      "new": "#6E9A6A"
+    }
+  },
+  "createdAt": "2026-10-01T15:47:51.113968+00:00",
+  "id": "custom-012cc701-caa7-468c-b5bb-7aa41430e163",
+  "isPreset": false,
+  "isReadOnly": false,
+  "layout": {
+    "borderRadius": {
+      "sm": "0.25rem",
+      "base": "0.5rem",
+      "lg": "0.75rem",
+      "xl": "1rem"
+    },
+    "spacing": {
+      "xs": "0.25rem",
+      "sm": "0.5rem",
+      "base": "1rem",
+      "lg": "1.5rem",
+      "xl": "2rem"
+    }
+  },
+  "monacoTheme": {
+    "base": "vs-dark",
+    "inherit": true
+  },
+  "name": "Tahoe Dark",
+  "typography": {
+    "fontFamily": {
+      "base": "Inter, system-ui, Avenir, Helvetica, Arial, sans-serif",
+      "mono": "JetBrains Mono, Fira Code, Monaco, Consolas, monospace"
+    },
+    "fontSize": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem"
+    }
+  },
+  "updatedAt": "2026-10-01T15:47:51.113968+00:00"
+}
